@@ -3,12 +3,12 @@
 
 Summary:	A pure Python pyevent emulation module
 Name:		python-%{module}
-Version:	0.1.12
-Release:	2
+Version:	0.2.5
+Release:	1
 License:	MIT
 Group:		Libraries/Python
 Source0:	http://registeredeventlistener.googlecode.com/files/%{module}-%{version}.tar.gz
-# Source0-md5:	8b06018efc4a1ca9441a1be0f0e70d8b
+# Source0-md5:	dcac21c504b31fee1623aabf10faa556
 URL:		http://brbx.com/orbited/index.html
 BuildRequires:	libevent-devel
 BuildRequires:	python-devel >= 1:2.5
