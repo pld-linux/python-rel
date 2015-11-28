@@ -4,7 +4,7 @@
 Summary:	A pure Python pyevent emulation module
 Name:		python-%{module}
 Version:	0.2.5
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 Source0:	http://registeredeventlistener.googlecode.com/files/%{module}-%{version}.tar.gz
