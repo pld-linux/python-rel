@@ -10,6 +10,7 @@ Group:		Libraries/Python
 Source0:	http://registeredeventlistener.googlecode.com/files/%{module}-%{version}.tar.gz
 # Source0-md5:	dcac21c504b31fee1623aabf10faa556
 URL:		http://brbx.com/orbited/index.html
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	libevent-devel
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	python-modules
